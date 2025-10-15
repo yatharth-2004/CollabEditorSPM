@@ -1,0 +1,33 @@
+# Dependencies
+/bin/
+/obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.njsproj
+*.sln.ide
+*.tmp
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Rider files
+.idea/
